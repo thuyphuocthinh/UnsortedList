@@ -1,0 +1,21 @@
+PutItem 24
+PutItem 31
+PutItem 1
+PutItem 3
+PutItem 5
+PutItem 13
+PutItem 18
+CheckItem 3
+DeleteItem 17
+DeleteItem 31
+PutItem 24
+CheckItem 5
+PrintList
+ResetList
+GetNextItem
+GetNextItem
+CheckItem 33
+GetNextItem
+SplitList 5
+MakeEmpty
+PrintList
