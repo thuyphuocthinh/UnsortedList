@@ -1,9 +1,13 @@
+<!-- 
+Troy ID: 11629924
+Full name: Thinh, Thuy Phuoc
+ -->
 # Description
 - This project implements an unsorted list based on linked structure (linked list)
 
 # Programming Language
 - C++
-- Compiler: g++ version 13.2.0
+- Compiler: g++ 
 
 # IDE
 Visual Studio Code 2022
@@ -35,7 +39,8 @@ Acer Nitro/Window 11
     - MakeEmpty
     - PrintList
 - Run the project by doing one of the following ways:
-    - Click on the compile & run button on the tools bar
-    - In the terminal, change directory to the folder containing the project, then typing:
+    1. Using the IDE, Click on the compile & run button on the tools bar
+    2. In the terminal, change directory to the folder containing the project, then typing:
         - g++ -g <projectName>.cpp -o output
         - ./output 
+- The ouput is written in the console.

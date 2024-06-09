@@ -219,7 +219,7 @@ class App
 public:
     App()
     {   
-        // Mapping function name to integer
+        // Mapping function name to integer value
         map["PutItem"] = 1;
         map["CheckItem"] = 2;
         map["DeleteItem"] = 3;
